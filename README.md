@@ -1,0 +1,1 @@
+Rhythmix is a dynamic web application inspired by popular music streaming platforms. Our project aims to provide users with a seamless and immersive music listening experience right from their web browser. With a sleek and user-friendly interface, Rhythmix offers a wide range of features, including:
